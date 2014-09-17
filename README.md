@@ -3,7 +3,7 @@
 ## Contains
 - log.io-server
 
-You can find log.io-harvester in the corresponding (repository)[https://github.com/temal-/docker-log.io-harvester].
+You can find log.io-harvester in the corresponding repository [docker-log.io-harvester](https://github.com/temal-/docker-log.io-harvester).
 
 ## Example
 
